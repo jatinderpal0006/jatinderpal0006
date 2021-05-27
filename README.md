@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jatinderpal0006
 - 👀 I’m interested in upgrading my skills in programming.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me @uic.17mca8081@gmail.com
 
 <!---
